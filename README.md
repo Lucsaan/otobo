@@ -14,7 +14,7 @@ You can find a list of features here
 License
 =======
 It is distributed under the GNU General Public License - see the
-accompanying [COPYING](COPYING) file for more details.
+accompanying [LICENSE](LICENSE) file for more details.
 
 
 Documentation
